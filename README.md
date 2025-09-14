@@ -51,6 +51,3 @@ docker build -t basic-mcp-server .
 docker run basic-mcp-server
 ```
 
-## License
-
-ISC
